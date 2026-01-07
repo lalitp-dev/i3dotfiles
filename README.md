@@ -21,8 +21,8 @@ A clean and functional i3wm setup with Catppuccin Mocha color scheme, featuring 
 | **Compositor** | Picom (GLX backend) |
 | **Launcher** | Rofi |
 | **Terminal** | Kitty |
-| **Shell** | (Add your shell here) |
-| **Font** | MesloLGS Nerd Font, Figtree |
+| **Shell** | Zsh |
+| **Font** | MesloLGS Nerd Font, Figtree, JetBrainsMono NF |
 | **Theme** | Catppuccin Mocha |
 
 ## 📦 Dependencies
@@ -75,7 +75,7 @@ cp -r ~/.config/picom ~/dotfiles-backup/
 ### 2. Clone This Repository
 
 ```bash
-git clone https://github.com/yourusername/dotfiles.git ~/dotfiles
+git clone https://github.com/lalitp-dev/i3dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ```
 
@@ -287,7 +287,7 @@ Feel free to fork this repository and submit pull requests for any improvements!
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Credits
+## Credits
 
 - **i3wm** - [i3wm.org](https://i3wm.org/)
 - **Polybar** - [github.com/polybar/polybar](https://github.com/polybar/polybar)
